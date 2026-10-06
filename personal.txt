@@ -1,3 +1,14 @@
+||ms.applovin.com^
+||ms.applvn.com^
+||rt.applovin.com^
+||rt.applvn.com^
+||prod-e4.axon.ai^
+||prod-e.axon.ai^
+||x.blueduckredapple.com^
+||x.thecatmachine.com^
+||x.everestop.io^
+||api16-access-wf-sg.pangle-b.io^
+
 ||googleads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||bid.g.doubleclick.net^
